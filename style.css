@@ -129,3 +129,58 @@ h2{
   cursor: pointer;
   transition: 0.5px;
 }
+@media (max-width: 534px) {
+  .body {
+    width: 100%;
+  }
+  .calc {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .principal,
+  .year,
+  .rate {
+    width: 100%;
+    margin: 1rem auto;
+  }
+  .calc {
+    width: 100%;
+  }
+  .reset {
+    width: 100%;
+  }
+}
+@media (min-width: 1028){
+  .calc {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .principal,
+  .year,
+  .rate {
+    width: 100%;
+    margin: 1rem auto;
+  }
+  .calc {
+    width: 100%;
+  }
+  .reset {
+    width: 100%;
+  }
+    .body {
+    width: 100%;
+  }
+  .calc {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .principal,
+  .year,
+  .rate {
+    width: 100%;
+    margin: 1rem auto;
+  }
+}
